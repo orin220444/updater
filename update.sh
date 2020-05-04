@@ -2,10 +2,10 @@ sudo apt update
 
 sudo apt upgrade -y
 
-sudo apt dist-upgrade
+sudo apt dist-upgrade -y
 
 sudo apt autoremove -y
 
-flatpak update
+flatpak update -y
 
 rustup update
