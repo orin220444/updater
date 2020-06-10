@@ -9,3 +9,5 @@ sudo apt autoremove -y
 flatpak update -y
 
 rustup update
+
+flutter upgrade
